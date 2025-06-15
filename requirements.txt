@@ -1,9 +1,9 @@
 flask>=2.0.1
 pillow>=8.3.1
-torch==2.0.1+cpu
-torchvision==0.15.2+cpu
---extra-index-url https://download.pytorch.org/whl/cpu
+torch>=1.9.0
+torchvision>=0.10.0
 opencv-python>=4.5.0
 numpy>=1.19.0
 matplotlib>=3.4.0
 gunicorn>=20.1.0
+
