@@ -1,11 +1,11 @@
 Model Information:
-* title:	Brain Point Cloud
-* source:	https://sketchfab.com/3d-models/brain-point-cloud-c427ea0aee214141a78eba37bf9b76bb
-* author:	Terrie (https://sketchfab.com/terrielsimmons)
+* title:	human-brain
+* source:	https://sketchfab.com/3d-models/human-brain-e073c2590bc24daaa7323f4daa5b7784
+* author:	Yash_Dandavate (https://sketchfab.com/Yash_Dandavate)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Brain Point Cloud" (https://sketchfab.com/3d-models/brain-point-cloud-c427ea0aee214141a78eba37bf9b76bb) by Terrie (https://sketchfab.com/terrielsimmons) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "human-brain" (https://sketchfab.com/3d-models/human-brain-e073c2590bc24daaa7323f4daa5b7784) by Yash_Dandavate (https://sketchfab.com/Yash_Dandavate) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
