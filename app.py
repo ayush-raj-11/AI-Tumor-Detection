@@ -227,7 +227,7 @@ class GradCAM:
         # Generate cam
         cam = torch.zeros(features.shape[1:], dtype=torch.float32)
         for i, w in enumerate(weights):
-            cam += w * features[i]
+            cam +=  w * features[i]
         
         # Apply ReLU and normalize
         cam = torch.maximum(cam, torch.tensor(0))
